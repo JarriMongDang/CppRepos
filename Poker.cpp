@@ -1,3 +1,4 @@
+/* C:\Users\dead5\OneDrive\"바탕 화면"\"개발 도구"\Visual */
 #include<iostream> 
 #include<cmath>
 #include<cstring>
